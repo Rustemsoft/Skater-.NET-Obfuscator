@@ -1,0 +1,31 @@
+License Agreement  
+
+Before installing Rustemsoft Skater .NET Obfuscator please read carefully terms and conditions of this agreement. You will express your consent to be bound by the terms of this Agreement by obtaining or opening Software media package. If you do not agree to all terms of this agreement do not use Software and destroy all copies of Software from your computer.  
+
+Grant of license:  
+ 
+Rustemsoft (the Developer) grants you (the Customer) a worldwide, non-exclusive, non-transferable, personal license to install and use the accompanying Skater .NET Obfuscator (the Software) in the manner provided herein.  
+1. Software is licensed, not sold. Software is protected by copyright law, international copyright treaty provisions and other intellectual property laws and treaties. Customer must not allow copies of Software or any part of it to be made or distributed to anyone else. Customer may make backup copies of Software for archival purposes only.  
+
+2. Software is licensed for use on a single computer. Customer may delete Software from one computer and reinstall it on another, but Customer may not install Software on more than one computer at any given time without Developer's prior written permission.  
+
+3. Software may not be rented, leased, nor in any other manner commercially exploited without Developer's prior written permission.  
+
+4. Developer makes no representations or warranties about the suitability of this Software for any purpose. Software is provided 'as is' without express or implied warranties, including warranties of merchantability and fitness for a particular purpose or non-infringement. Developer may not issue updates to this Software.  
+
+5. All assemblies/executables accessed and/or modified through Software is the property of the applicable content owner and may be protected by applicable copyright law. This license gives Customer no rights to such content, and Developer disclaims any liability for misuse of assemblies/executables.  
+
+6. Title, ownership rights, and intellectual property rights in and to Software shall remain with Developer. Customer agrees not to modify Software or attempt to decipher, disassemble, decompile or reverse engineer Software. Reproduction and/or redistribution of any portion of Software is prohibited without Developer's prior written permission.  
+
+7. Developer may terminate this license at any time by delivering notice to Customer and Customer may terminate this license at any time by destroying or erasing Customer's copy of Software. Upon termination of this license, Customer agrees to destroy all copies of Software. In case of termination sections 4 through 10 of this agreement shall indefinitely survive its termination. This license is the complete statement of the agreement between Developer and Customer and merges and supersedes all other or prior understandings, purchase orders, agreements and arrangements.  
+
+8. Developer or its suppliers shall not be liable for direct, incidental, consequential, special or indirect damages of any sort whatsoever. This includes loss of business profits, revenues, information, or business interruption resulting from Customer's use of Software or inability to use Software, even if Developer has been informed of the possibility of such damages.  
+
+9. This Software is not fault-tolerant. It is not designed, manufactured or intended for use in hazardous environments requiring fail-safe performance. Developer and its suppliers specifically disclaim any express or implied warranty of fitness for high-risk activities.  
+
+10. Developer reserves the right to discontinue distribution and/or support of its products at any time without notice. Developer reserves the right to change the prices of its products and services at any time without notice.  
+
+Complete agreement:  
+This Agreement is the entire agreement between you and Developer relating to its subject matter. This Agreement may not be modified other than in writing executed by Rustemsoft.  
+
+Copyright © 2017 Rustemsoft LLC. All rights reserved.
