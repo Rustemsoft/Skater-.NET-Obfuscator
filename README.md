@@ -1,5 +1,6 @@
 #Skater .NET Obfuscator
 Skater .NET Obfuscator is an advanced tool for protecting .NET code through various obfuscation techniques and algorithms.
+
 ![image](https://github.com/user-attachments/assets/f3ee205b-30c1-41f6-8647-0d40ff4fb525)
 
 This comprehensive professional solution ensures the protection of .NET applications, including both .NET Core and .NET Framework. By using Skater .NET Obfuscator, developers can effectively safeguard their Microsoft .NET applications from reverse engineering, code modification, and intellectual property theft. The obfuscation process renders the application code more secure and unreadable, as the program logic becomes highly confusing post-obfuscation. The tool supports multiple obfuscation methods such as DLL obfuscation, executable obfuscation, Control Flow obfuscation, String Encryption, Reference obfuscation, and MetaData obfuscation. It ensures that all namespaces, classes, methods, variable names, and custom attributes in the .NET application are obfuscated. 
