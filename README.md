@@ -1,4 +1,3 @@
-#Skater .NET Obfuscator
 Skater .NET Obfuscator is an advanced tool for protecting .NET code through various obfuscation techniques and algorithms.
 
 ![image](https://github.com/user-attachments/assets/f3ee205b-30c1-41f6-8647-0d40ff4fb525)
